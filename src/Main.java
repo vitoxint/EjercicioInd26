@@ -31,8 +31,8 @@ public class Main {
         System.out.println(tres.toString());
 
 
+        CargaFamiliar cf1 = new CargaFamiliar( "24866254-8" , "Angelina Daniela" , "Montes Achurra" , "14865447-8" , 2 , 10 );
 
-
-
+        System.out.println("\n" + cf1.toString());
     }
 }
